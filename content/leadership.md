@@ -1,7 +1,6 @@
 ---
 title: Leadership
 date: 2022-11-29T12:12:32.000+05:30
-draft: true
 
 ---
 # Leadership
